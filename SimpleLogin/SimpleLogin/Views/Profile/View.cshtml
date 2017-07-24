@@ -1,0 +1,31 @@
+﻿@using SimpleLogin.Models
+@model IEnumerable<SimpleLogin.Models.Profile>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+            <td>Age</td>
+            <td>IsDeleted</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var data in Model)
+        {
+            <tr>
+                <td>@data.Id</td>
+                <td>@data.Name</td>
+                <td>@data.Age</td>
+                <td>@data.IsDeleted.ToBool()</td>
+            </tr>
+        }
+    </tbody>
+</table>
