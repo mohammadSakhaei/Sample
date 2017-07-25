@@ -7,6 +7,5 @@ namespace SimpleLogin.Models
 {
     public class Countries
     {
-
     }
 }
