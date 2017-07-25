@@ -7,3 +7,12 @@ c:\users\it staff\documents\visual studio 2017\Projects\SimpleLogin\SimpleLogin\
 c:\users\it staff\documents\visual studio 2017\Projects\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp1.1\SimpleLogin.dll
 c:\users\it staff\documents\visual studio 2017\Projects\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp1.1\SimpleLogin.pdb
 c:\Users\IT Staff\Documents\Visual Studio 2017\Projects\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp1.1\SimpleLogin.csprojResolveAssemblyReference.cache
+E:\GIT_Tutorial\Sample\SimpleLogin\SimpleLogin\bin\Debug\netcoreapp1.1\SimpleLogin.deps.json
+E:\GIT_Tutorial\Sample\SimpleLogin\SimpleLogin\bin\Debug\netcoreapp1.1\SimpleLogin.runtimeconfig.json
+E:\GIT_Tutorial\Sample\SimpleLogin\SimpleLogin\bin\Debug\netcoreapp1.1\SimpleLogin.runtimeconfig.dev.json
+E:\GIT_Tutorial\Sample\SimpleLogin\SimpleLogin\bin\Debug\netcoreapp1.1\SimpleLogin.dll
+E:\GIT_Tutorial\Sample\SimpleLogin\SimpleLogin\bin\Debug\netcoreapp1.1\SimpleLogin.pdb
+E:\GIT_Tutorial\Sample\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp1.1\SimpleLogin.csprojResolveAssemblyReference.cache
+E:\GIT_Tutorial\Sample\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp1.1\SimpleLogin.AssemblyInfo.cs
+E:\GIT_Tutorial\Sample\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp1.1\SimpleLogin.dll
+E:\GIT_Tutorial\Sample\SimpleLogin\SimpleLogin\obj\Debug\netcoreapp1.1\SimpleLogin.pdb
