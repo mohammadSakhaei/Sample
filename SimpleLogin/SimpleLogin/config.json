@@ -1,8 +1,0 @@
-﻿{
-  "ConnectionStrings": {
-    "BloggingContext": "Server=(localdb)\\mssqllocaldb;Database=Sample;Trusted_Connection=True;"
-  },
-
-  "FeatureToggles": {
-  }
-}
